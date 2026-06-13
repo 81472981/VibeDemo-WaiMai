@@ -75,7 +75,7 @@ export const mockMenu = [
     description: '清凉爽口，甜度轻，搭配辣味主食很解腻。',
     category: '甜品',
     price: 5.8,
-    imageUrl: 'https://images.unsplash.com/photo-1586769412527-ab0855979b2e?auto=format&fit=crop&w=900&q=80',
+    imageUrl: '/images/jielao-laobinggun.svg',
     monthlySales: 1326,
     signature: true
   }
