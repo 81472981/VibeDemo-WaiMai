@@ -58,6 +58,25 @@ export const mockMenu = [
     imageUrl: 'https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=900&q=80',
     monthlySales: 1521,
     signature: true
+  },
+  {
+    id: 7,
+    name: '冰淇淋',
+    description: '奶香浓郁，口感绵密，饭后来一份刚刚好。',
+    category: '甜品',
+    price: 12.8,
+    imageUrl: 'https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=900&q=80',
+    monthlySales: 846,
+    signature: false
+  },
+  {
+    id: 8,
+    name: '解辣老冰棍',
+    description: '清凉爽口，甜度轻，搭配辣味主食很解腻。',
+    category: '甜品',
+    price: 5.8,
+    imageUrl: 'https://images.unsplash.com/photo-1586769412527-ab0855979b2e?auto=format&fit=crop&w=900&q=80',
+    monthlySales: 1326,
+    signature: true
   }
 ]
-
