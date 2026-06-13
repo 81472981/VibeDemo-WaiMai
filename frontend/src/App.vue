@@ -3,7 +3,7 @@
     <section class="shop-panel">
       <div class="shop-copy">
         <span class="eyebrow">35 分钟送达 · 满 49 免配送费</span>
-        <h1>多点小外卖</h1>
+        <h1>多多点点外卖店</h1>
         <p>热饭、汤面、轻食和甜品，一屏完成点单。</p>
       </div>
       <div class="shop-metrics">
